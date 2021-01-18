@@ -12,6 +12,8 @@ It is based on [this ruby Gist](https://gist.github.com/dsanson/1383132).
 
 ## Installation
 
+Ensure that [BibTool](https://github.com/ge-ne/bibtool) is installed.
+
 ```shell
 pip install extract_bib
 ```
